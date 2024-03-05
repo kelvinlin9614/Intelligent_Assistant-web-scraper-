@@ -2,7 +2,9 @@
 This app is aiming to enhance accessibility using web scraper.
 
 UserInterface: Tkinter
+
 Web Scrap: Beautiful Soup, Selenium
+
 Data Handling: Pandas
 
 Function:
